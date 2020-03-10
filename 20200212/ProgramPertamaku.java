@@ -1,0 +1,6 @@
+public class ProgramPertamaku {
+	public static void main(String args[]){
+		System.out.println("HELLO WOLRD!");
+
+	}
+}
